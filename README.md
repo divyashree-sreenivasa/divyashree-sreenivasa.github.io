@@ -1,1 +1,1 @@
-[My personal portfolio website](www.divyashree-sreenivasa.github.io)
+[My personal portfolio website](https://divyashree-sreenivasa.github.io/)
